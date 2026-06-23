@@ -12,7 +12,7 @@ They demonstrate my experience designing and maintaining complex product catalog
 
 - [Migrating Humanscale & Steelcase Products to UPLIFT Desk](03-humanscale-steelcase-migration.md)
 
-Technologies:
+## Technologies
 
 - BigCommerce
 - Contentful
